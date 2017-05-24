@@ -1,0 +1,73 @@
+body {
+
+	background-color: white;
+}
+
+
+/*
+#app-links
+
+*/
+
+
+#app-links {
+
+	border-bottom: 1px;
+}
+
+#app-links > li {
+
+	padding: 15px;
+	list-style: none;
+	margin: 5px;
+
+
+}
+
+#app-links > li > a {
+
+	text-decoration: none;
+	font-size: 20px;
+	padding: 15px;
+	color: white;
+	border-radius: 3px;
+	width: 70%;
+	height: 70%;
+
+}
+
+
+#tagTable input {
+
+	width: 150px;
+
+}
+
+#flash_message {
+
+   position: fixed;
+   left: 80%;
+   top: 50%;
+   z-index: 1;
+
+   height: 70px;
+   margin-top: -290px;
+
+   width: 330px;
+   margin-left: -100px;
+}
+
+#select-m  {
+
+	width: 300px;
+	height: auto;
+	padding: 5px;
+	margin-bottom: 20px;
+}
+
+#posts_create {
+	height: 90%;
+	width: 90%;
+}
+
+
